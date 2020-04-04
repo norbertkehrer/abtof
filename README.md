@@ -4,8 +4,7 @@ In 1963, Richard M. Cyert and James G. March from the Carnegie Institute of Tech
 University) published a book, in which they describe their behavioral theory of the firm.
 The exact citation is:
 
-> Cyert, Richard M. and March, James G., A Behavioral Theory of the Firm, Englewood Cliffs, NJ,
-> Prentice-Hall, 1963.
+- Cyert, Richard M. and March, James G., A Behavioral Theory of the Firm, Englewood Cliffs, NJ, Prentice-Hall, 1963.
 
 Therein, Cyert and March describe their theory of decision making in business organizations. They combine
 microeconomic theory with a study of the internal processes of a company concerning the formation of goals,
